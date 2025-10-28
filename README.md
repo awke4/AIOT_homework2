@@ -49,7 +49,7 @@
 - 模型評估指標：
      - MSE（均方誤差）: 12,663,837.77
      - RMSE（均方根誤差）: 3,558.63
-     - R²（解釋力）: 0.90
+     - R²（解釋力）: 0.89
 - 預測成果視覺化：
 <img width="713" height="470" alt="image" src="https://github.com/user-attachments/assets/aed27cf3-3c75-4624-b54e-b9206a5faa4f" />
 
